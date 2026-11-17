@@ -114,3 +114,18 @@ Whether it's building a new application, improving an existing system, integrati
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+---
+
+### 📊 GitHub Statistics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=Moizahmad10&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Moizahmad10\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165">   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Moizahmad10&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Moizahmad10\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"> \</p>
+
+### 🔥 GitHub Contribution Streak
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=Moizahmad10&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Moizahmad10\&theme=tokyonight\&hide_border=true)"> \</p>
+
+---
+
+⭐ Thanks for visiting my profile!
+
