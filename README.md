@@ -43,51 +43,38 @@ I'm passionate about transforming business requirements into effective software 
 
 ### 🛠️ Technical Skills
 
-**Backend Development**
-- PHP
-- Laravel
-- Node.js
-- Express.js
-- REST APIs
-- Laravel Sanctum
+Backend Development
 
-**Frontend Development**
-- JavaScript
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Bootstrap
-- WordPress
 
-**Databases**
-- MySQL
-- PostgreSQL
-- MongoDB
 
-**DevOps & Cloud**
-- Git & GitHub
-- Docker
-- CI/CD
-- Linux
-- AWS (Learning)
 
-**Tools & Platforms**
-- VS Code
-- Postman
-- Git
-- GitHub
-- WordPress
-- Elementor
 
-**Other Interests**
-- Artificial Intelligence
-- Automation
-- Cloud Engineering
-- Scalable Software Architecture
 
----
+Frontend Development
 
+
+
+
+
+
+
+
+
+Databases
+
+
+
+
+
+DevOps & Cloud
+
+
+
+
+
+
+
+Tools
 ### 🚀 Projects & Experience
 
 I work on projects involving:
